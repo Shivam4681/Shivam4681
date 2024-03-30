@@ -1,6 +1,6 @@
 # Welcome to Shivam's Data Analytics GitHub Profile! 📊
 
-![Data Analytics](![image](https://github.com/Shivam4681/Shivam/assets/107171991/4d99d3f0-47a7-49e3-b6a5-a546fe512cc3))
+![Data Analytics](![image]([https://github.com/Shivam4681/Shivam/assets/107171991/4d99d3f0-47a7-49e3-b6a5-a546fe512cc3)](https://www.vecteezy.com/vector-art/24114198-data-analysis-design-concept-analysts-working-people-and-laptop-screen-with-data-analysis-graphs-ansd-charts-trendy-flat-style-vector-illustration))
 
 Hey there! Welcome to my GitHub profile. I'm a passionate data analytics professional with expertise in Python, SQL, Tableau, Power BI, and Excel. I enjoy extracting insights from data to drive informed decision-making.
 
