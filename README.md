@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome to Shivam's Data Analytics GitHub Profile! 📊
 
-<!--
-**Shivam4681/Shivam4681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Data Analytics](![image](https://github.com/Shivam4681/Shivam/assets/107171991/4d99d3f0-47a7-49e3-b6a5-a546fe512cc3))
 
-Here are some ideas to get you started:
+Hey there! Welcome to my GitHub profile. I'm a passionate data analytics professional with expertise in Python, SQL, Tableau, Power BI, and Excel. I enjoy extracting insights from data to drive informed decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming**: Python, SQL
+- **Visualization Tools**: Tableau, Power BI
+- **Data Manipulation**: Excel, Pandas
+- **Data Cleaning & Preprocessing**: Pandas, SQL
+- **Statistical Analysis**: Python, Excel
+- **Machine Learning**: Scikit-learn, TensorFlow (basic)
+
+
+## Contact Me
+
+📫 Feel free to reach out to me:
+- Email: (shivrokade.8146@gmail.com)
+- LinkedIn: (www.linkedin.com/in/shivam-rokade)
+
+Let's connect and collaborate on exciting data projects!
