@@ -19,6 +19,5 @@ Hey there! Welcome to my GitHub profile. I'm a passionate data analytics profess
 
 📫 Feel free to reach out to me:
 - Email: (shivrokade.8146@gmail.com)
-- LinkedIn: (www.linkedin.com/in/shivam-rokade)
 
 ## Welcome to my GitHub repository showcasing my data analytics projects!
