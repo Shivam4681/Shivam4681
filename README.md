@@ -7,11 +7,11 @@ Hey there! Welcome to my GitHub profile. I'm a passionate data analytics profess
 
 ## Skills
 
-• **Language and Database**: Python, SQL, MYSQL
-• **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-• **Machine Learning**: Supervised Learning, Unsupervised Learning
-• **Excel**: Advanced Functions, Pivot Tables, VLOOKUP, Macros, VBA
-• **Data Visualization Tools** – Tableau, Power BI
+• **Language and Database**: Python, SQL, MYSQL <br>
+• **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn <br>
+• **Machine Learning**: Supervised Learning, Unsupervised Learning <br>
+• **Excel**: Advanced Functions, Pivot Tables, VLOOKUP, Macros, VBA <br>
+• **Data Visualization Tools** – Tableau, Power BI <br>
 • **Development Tools** – Jupyter Notebook, Visual Studio Code (VS Code)
 
 
