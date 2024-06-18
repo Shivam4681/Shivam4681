@@ -8,11 +8,11 @@ Hey there! Welcome to my GitHub profile. I'm a passionate data analytics profess
 ## Skills
 
 • **Language and Database**: Python, SQL, MYSQL
-• Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-• Machine Learning: Model Evaluation, Supervised Learning, Unsupervised Learning
-• Excel: Advanced Functions, Pivot Tables, VLOOKUP, Macros, VBA
-• Data Visualization Tools – Tableau, Power BI
-• Development Tools – Jupyter Notebook, Visual Studio Code (VS Code)
+• **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+• **Machine Learning**: Supervised Learning, Unsupervised Learning
+• **Excel**: Advanced Functions, Pivot Tables, VLOOKUP, Macros, VBA
+• **Data Visualization Tools** – Tableau, Power BI
+• **Development Tools** – Jupyter Notebook, Visual Studio Code (VS Code)
 
 
 ## Contact Me
@@ -20,4 +20,3 @@ Hey there! Welcome to my GitHub profile. I'm a passionate data analytics profess
 📫 Feel free to reach out to me:
 - Email: (shivrokade.8146@gmail.com)
 
-## GitHub repository showcasing my data analytics projects!
