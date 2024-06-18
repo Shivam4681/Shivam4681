@@ -7,12 +7,12 @@ Hey there! Welcome to my GitHub profile. I'm a passionate data analytics profess
 
 ## Skills
 
-- **Programming**: Python, SQL
-- **Visualization Tools**: Tableau, Power BI
-- **Data Manipulation**: Excel, Pandas
-- **Data Cleaning & Preprocessing**: Pandas, SQL
-- **Statistical Analysis**: Python, Excel
-- **Machine Learning**: Scikit-learn, TensorFlow (basic)
+• **Language and Database**: Python, SQL, MYSQL
+• Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+• Machine Learning: Model Evaluation, Supervised Learning, Unsupervised Learning
+• Excel: Advanced Functions, Pivot Tables, VLOOKUP, Macros, VBA
+• Data Visualization Tools – Tableau, Power BI
+• Development Tools – Jupyter Notebook, Visual Studio Code (VS Code)
 
 
 ## Contact Me
